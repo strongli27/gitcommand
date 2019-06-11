@@ -1,7 +1,5 @@
 # git命令学习
 
-标签（空格分隔）： jobnote
-
 ---
 
 ![git原理图](http://m.qpic.cn/psb?/V11Rhu0F083yyH/fhZMNzaivI.S3LXpJsGewaUKkOmiCiQ9Yl7LA67qGDg!/b/dMAAAAAAAAAA&bo=lARUAZQEVAERCT4!&rf=viewer_4)
